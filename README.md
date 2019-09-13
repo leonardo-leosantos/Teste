@@ -1,10 +1,13 @@
-﻿# Teste
-teste
+﻿bmm# Teste
+<ul>
 
-Aprendendo a criar um repositório com README.md
+<li>teste</li>
+<li>Aprendendo a criar um repositório com README.md</li>
+<li>Teste.</li>
 
-Teste.
+</ul>
+<br/>
+<br/>
 
-
-
-Inserindo imagem.
+<p>Inserindo imagem.</p>
+<img src="https://github.com/leonardo-leosantos/Teste/git.png"/>
