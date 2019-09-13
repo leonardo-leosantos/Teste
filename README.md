@@ -1,4 +1,4 @@
-﻿#Teste
+# Teste 
 <ul>
 
 <li>teste</li>
