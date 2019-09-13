@@ -1,3 +1,6 @@
 # Teste
 teste
-jhsadgfhghsdfjsdgfhjsdgfsdgfhdsd
+
+Aprendendo a criar um repositório com README.md
+
+Teste.
