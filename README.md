@@ -17,6 +17,9 @@
 <br />
 <img src="https://github.com/leonardo-leosantos/Teste/blob/master/download.png"/>
 
+
+<p>MERGE</p>
+<p>ERROR</p>
 <p>Trabalho realizado</p>
 
 <p>resolvendo problemas de Merge</p>
