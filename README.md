@@ -5,6 +5,8 @@
 <li>Aprendendo a criar um repositório com README.md</li>
 <li>Teste.</li>
 
+<li>Ramificação</li>
+
 </ul>
 <br/>
 <br/>
@@ -18,3 +20,4 @@
 
 <p>MERGE</p>
 <p>ERROR</p>
+<p>Trabalho realizado</p>
